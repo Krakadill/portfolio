@@ -14,7 +14,7 @@ const Blog = () => {
           <Article
             imgUrl={restaurant}
             text="Fully responsive restaurant website Made with React.js."
-            link="https://orvela-restourant.onrender.com"
+            link="https://orvela-restaurant.onrender.com"
           />
           <Article
             imgUrl={hoobank}
