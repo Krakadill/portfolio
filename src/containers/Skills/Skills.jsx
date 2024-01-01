@@ -17,37 +17,11 @@ const Skills = () => {
             </p>
           </div>
           <div className="skills__list">
-            <p>
-              <a href="https://en.wikipedia.org/wiki/HTML" target="blank">
-                HTML
-              </a>
-            </p>
-            <p>
-              <a href="https://en.wikipedia.org/wiki/CSS" target="blank">
-                CSS
-              </a>
-            </p>
-            <p>
-              <a href="https://en.wikipedia.org/wiki/JavaScript" target="blank">
-                JAVASCRIPT
-              </a>
-            </p>
-            <p>
-              <a
-                href="https://en.wikipedia.org/wiki/React_(software)"
-                target="blank"
-              >
-                REACT JS
-              </a>
-            </p>
-            <p>
-              <a
-                href="https://en.wikipedia.org/wiki/Tailwind_CSS"
-                target="blank"
-              >
-                TAILWIND CSS
-              </a>
-            </p>
+            <p>HTML</p>
+            <p>CSS</p>
+            <p>JAVASCRIPT</p>
+            <p>REACT JS</p>
+            <p>TAILWIND CSS</p>
           </div>
         </div>
       </div>
